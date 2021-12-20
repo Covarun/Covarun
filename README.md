@@ -44,3 +44,6 @@ I like to program and learn languages i like a lot to make websites a like disco
 
 # My websites
 http://animestars.epizy.com/  ----Only has spanish content of because me being from México and it may be marked as not secure but its 100% secure
+
+# Spotify
+[<img src="https://er-five.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
