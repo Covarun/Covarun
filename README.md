@@ -2,6 +2,9 @@
 
 ![standard](https://user-images.githubusercontent.com/79609111/136093713-b4458552-f762-45ac-b2d9-895f257c3793.gif)
 
+# What im hearing?
+[![Spotify](https://novatorem-eta-lime.vercel.app/api/spotify)](https://open.spotify.com/user/al2su7n20reccp76n03vj962a)
+
 # What i do?
 I like to program and learn languages i like a lot to make websites a like discord bots on node.js
 
@@ -42,9 +45,4 @@ I like to program and learn languages i like a lot to make websites a like disco
 # Read me visits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCovarun&count_bg=%2303FDEC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Read+me+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# My websites
-http://animestars.epizy.com/  ----Only has spanish content of because me being from México and it may be marked as not secure but its 100% secure
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
-
-[![Spotify](https://novatorem-eta-lime.vercel.app/api/spotify)](https://open.spotify.com/user/al2su7n20reccp76n03vj962a)
