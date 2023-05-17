@@ -32,7 +32,6 @@ I like to program and learn programming languages I love to code websites and co
 <li>PC SPECS: HP , CORE I3 10th gen, 1tb of hdd, 12GB of RAM</li>
 <li>Browser: Microsoft Edge</li>
 <li>Code Editor: VSCode and Replit</li>
-<li>Feel free to checkout my <a href="https://discord.gg/j4vrrkhH3K" rel="nofollow">Discord!</a></li>
 </ul>
 
 # Discord
