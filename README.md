@@ -49,4 +49,4 @@ I like to program and learn languages i like a lot to make websites a like disco
 
 # Programming jokes
 
-<a href="" target="_blank"><img src="[https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg](https://camo.githubusercontent.com/ee6d0eb34e7d561d98c8e17ead480ff34d1b75e952ea4327086698d4791c9db6/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d64656661756c74)" alt="jokes"></a>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
