@@ -1,14 +1,10 @@
-# Covarun aka 13AM
-
-![standard](https://user-images.githubusercontent.com/79609111/136093713-b4458552-f762-45ac-b2d9-895f257c3793.gif)
-
-# What im hearing?
+# What im listening to?
 [![Spotify](https://novatorem-eta-lime.vercel.app/api/spotify)](https://open.spotify.com/user/al2su7n20reccp76n03vj962a)
 
-# What i do?
-I like to program and learn languages i like a lot to make websites a like discord bots on node.js
+# What I like to do?
+I like to program and learn programming languages I love to code websites and code discord bots on node.js
 
-# What do i use?
+# What do I use?
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e1e456809d06fb505eb4a233715b901a3e725aae60e1a2d7a1f71b514d4b7f32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e6f64656a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73"><img src="https://camo.githubusercontent.com/e1e456809d06fb505eb4a233715b901a3e725aae60e1a2d7a1f71b514d4b7f32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e6f64656a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-nodejs-333333?style=flat&amp;logo=node.js" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=python" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=python" style="max-width: 100%;"></a>
